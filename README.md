@@ -8,7 +8,10 @@ He then asks you if you would like to switch your selection to the other unopene
 
 Here is the problem: Does it matter if you switch?
    
-Here we will count the results of three strategies:
+Here, I will count the results of three strategies:
   1- not to switch my selection.
   2- switch my selection.
   3- randomly selecting between the 2 previous strategies.
+  
+An explanation for the best strategy: https://www.montyhallproblem.com/
+
